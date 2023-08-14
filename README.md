@@ -1,4 +1,4 @@
-# nuxt-auto-deploy
+# Github 자동 배포 연습 
 
 ## Build Setup
 
